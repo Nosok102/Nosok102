@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nosok102
+- 👋 Hi, I’m Vagif
 - 👀 I’m interested in 3D-modeling
 - 💞️ I have knowledge in MS Word, Access
 - 📫 You can contact me by email
