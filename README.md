@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nosok102
 - 👀 I’m interested in 3D-modeling
-- 🌱 I’m currently graduating from college
-- 💞️ I have knowledge in MS Word, Access, Excel
+- 💞️ I have knowledge in MS Word, Access
 - 📫 You can contact me by email
 - ⚡ Fun fact: I'm a beginner, but I learn quickly with practice.
 
